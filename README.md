@@ -14,7 +14,7 @@ Restart Option: Players have the option to restart the game at any time, allowin
 Getting Started
 To get started with the game, follow these steps:
 
-Clone this repository to your local machine using git clone https://github.com/yourusername/react-tic-tac-toe.git
+Clone this repository to your local machine using git clone https://github.com/adnan-2313/TicTacTo
 Navigate to the project directory: cd react-tic-tac-toe
 Install the necessary dependencies by running npm install
 Start the development server with npm run dev
